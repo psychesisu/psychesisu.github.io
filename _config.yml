@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "psychesisu's blog"
+description: "psychesisu的个人博客，有时候是厕所。"
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://raw.githubusercontent.com/psychesisu/psy/main/1000012021_origin_Screenshot_20240712_104658.jpg
+favicon: https://raw.githubusercontent.com/psychesisu/psy/main/1000012035_origin_favicon.ico
 
 navigation:
   - name: 首页
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 
   facebook:
-  github: pianfan
+  github: psychesisu
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 Psychesisu
 
-url: https://pianfan.github.io
+url: https://psychesisu.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
