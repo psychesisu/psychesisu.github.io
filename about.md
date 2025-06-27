@@ -6,8 +6,8 @@ permalink: /about/
 
 ## 关于本网站
 
-这是我用于个人记录的博客，有时候是厕所。如果让你感到不适，我很抱歉
+PsycheTransky's Space
 
 ## 版权声明
 
-版权所有，不允许将本博客文章投厕或用以污名化任何人
+Copyright PsycheTransky
